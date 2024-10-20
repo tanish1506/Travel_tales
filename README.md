@@ -1,2 +1,2 @@
 # Travel_tales
-Travel Website designe using HTML and CSS
+Travel Website designed using HTML and CSS
